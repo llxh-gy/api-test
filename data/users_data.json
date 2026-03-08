@@ -1,0 +1,11 @@
+{
+    "create_user": {
+        "name": "John",
+        "job": "leader"
+    },
+    "update_user": {
+        "name": "Jane",
+        "job": "engineer"
+    },
+    "invalid_user_id": 9999
+}
